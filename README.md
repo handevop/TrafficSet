@@ -3,6 +3,9 @@
 TrafficSet je projekt koji objedinjuje **simulaciju prometa u Unityju** i **algoritamsku obradu prometne mreže** pomoću mrežnog toka (Network Flow).  
 Projekt je razvijen u sklopu završnog rada i služi za analizu i optimizaciju protoka prometa.
 
+## Model dijela gradske mreže u Blender alatu
+<img width="914" height="472" alt="image" src="https://github.com/user-attachments/assets/e1e25627-275c-454a-850f-399ca22f6375" />
+
 ## Sadržaj projekta
 Projekt se sastoji od tri glavne cjeline:
 - Unity simulacija prometnog sustava
