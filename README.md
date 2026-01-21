@@ -23,10 +23,6 @@ Unity projekt služi za:
 - C#
 - Unity Editor (ProjectVersion.txt definira verziju)
 
-Putanja:
-Unity/TrafficSet/
-
-
 Za pokretanje:
 1. Otvoriti Unity Hub
 2. Učitat projekt iz `Unity/TrafficSet`
@@ -40,11 +36,6 @@ Algoritamski dio implementiran je u **C++** i bavi se:
 - modeliranjem cesta kao bridova, a raskrižja kao čvorova
 - analizom opterećenja prometnog sustava
 
-Datoteke:
-Algoritam/
-├── NetworkFlow.cpp
-└── networkflow.exe
-
 
 Algoritam se može koristiti neovisno o Unity simulaciji za matematičku analizu mreže.
 
@@ -56,22 +47,6 @@ U mapi `Docs` nalazi se završni rad koji detaljno opisuje:
 - korištene algoritme
 - implementaciju simulacije
 - rezultate i analizu
-
-Docs/
-├── ZavrsniRad.docx
-└── ZavrsniRad.pdf
-
-
----
-
-## Struktura projekta (sažetak)
-TrafficSet-master/
-│
-├── Algoritam/ # C++ algoritam mrežnog toka
-├── Unity/ # Unity simulacija prometa
-├── Docs/ # Završni rad (PDF i DOCX)
-└── README.md
-
 
 ---
 
